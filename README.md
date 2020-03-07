@@ -3,7 +3,7 @@
  ==============
 
   1.drop-down menu, and select New repository
-      ![GitHub Logo](https://help.github.com/assets/images/help/repository/repo-create.png)
+  ![GitHub Logo](https://help.github.com/assets/images/help/repository/repo-create.png)
 
   2.Choose a template drop-down and select a template repository
 
